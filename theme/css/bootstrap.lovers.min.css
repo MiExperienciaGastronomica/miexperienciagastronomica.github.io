@@ -126,7 +126,7 @@ input,button,select,textarea{font-family:inherit;font-size:inherit;line-height:i
 a{color:#b90504;text-decoration:none;}a:hover,a:focus{color:#6e0302;text-decoration:underline;}
 a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
 img{vertical-align:middle;}
-.img-responsive{display:block;max-width:100%;height:auto;}
+.img-responsive{display:block;max-width:100%;height:inherit;}
 .img-rounded{border-radius:6px;}
 .img-thumbnail{padding:4px;line-height:1.428571429;background-color:#f6f6f6;border:1px solid #dddddd;border-radius:4px;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;display:inline-block;max-width:100%;height:auto;}
 .img-circle{border-radius:50%;}
